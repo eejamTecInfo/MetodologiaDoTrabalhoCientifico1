@@ -18,7 +18,7 @@ Materiais de aulas do professor Berg Dantas.
     </tr>
     <tr>
         <td>11/03</td>
-        <td>Conceito de ciência e tipos de conhecimento: empírico, filosófico religioso e científico</td>
+        <td>Conceito de ciência e tipos de conhecimento: empírico, filosófico religioso e científico.</td>
     </tr>
     <tr>
         <td>18/03</td>
@@ -42,7 +42,7 @@ Materiais de aulas do professor Berg Dantas.
     </tr>
     <tr>
         <td>22/04</td>
-        <td>Pesquisa, leitura e interpretação de textos científicos</td>
+        <td>Pesquisa, leitura e interpretação de textos científicos.</td>
     </tr>
     <tr>
         <td>29/04</td>
@@ -50,7 +50,7 @@ Materiais de aulas do professor Berg Dantas.
     </tr>
     <tr>
         <td>06/05</td>
-        <td>Apresentações</td>
+        <td>Apresentações.</td>
     </tr>
 </table>
 
