@@ -53,3 +53,10 @@ Materiais de aula do professor Berg Dantas.
         <td>Apresentações.</td>
     </tr>
 </table>
+
+## Referências
+APPOLINÁRIO, Fábio. Metodologia da Ciência: Filosofia e Prática da pesquisa. São Paulo:Thomson.2006.
+
+SEVERINO, Joaquim Severino. Metodologia do Trabalho Científico. 21ª ed. São Paulo: Cortez. 2000.
+
+WAZLAWICK, Raul Sidnei. Metodologia de pesquisa para Ciência da Computação. 3ª ed. Rio de Janeiro: LTC. 2021.
