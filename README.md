@@ -55,7 +55,7 @@ Materiais de aula do professor Berg Dantas.
 </table>
 
 ## Referências
-APPOLINÁRIO, Fábio. Metodologia da Ciência: Filosofia e Prática da pesquisa. São Paulo:Thomson.2006.
+APPOLINÁRIO, Fábio. Metodologia da Ciência: Filosofia e Prática da Pesquisa. São Paulo:Thomson.2006.
 
 SEVERINO, Joaquim Severino. Metodologia do Trabalho Científico. 21ª ed. São Paulo: Cortez. 2000.
 
